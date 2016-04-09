@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSCahceDemo/Cache/CacheManager.m"
+            timestampString = "481865576.725738"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "-setCache:forKey:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CacheManager setCache:forKey:]"
+                  moduleName = "NSCahceDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luckyBaby/Desktop/xcode_workspace/NSCahceDemo/NSCahceDemo/Cache/CacheManager.m"
+                  timestampString = "481865301.427535"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CacheManager setCache:forKey:]"
+                  moduleName = "NSCahceDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luckyBaby/Desktop/xcode_workspace/NSCahceDemo/NSCahceDemo/Cache/CacheManager.m"
+                  timestampString = "481865301.427714"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "91">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
